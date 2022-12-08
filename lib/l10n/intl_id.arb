@@ -1,0 +1,216 @@
+{
+    "home": "Rumah",
+    "login": "Gabung",
+    "logout": "Keluar",
+    "theName": "Nama",
+    "name": "Nama",
+    "fullName": "Nama lengkap",
+    "enterFullName": "Masukkan nama lengkapmu",
+    "phone": "Telepon",
+    "thePhone": "Teleponnya",
+    "enterPhoneCorrectly": "Masukkan ponsel Anda dengan benar",
+    "enterFullPhoneNumber": "Masukkan ponsel lengkap Anda",
+    "fantasyName": "Nama fantasi",
+    "enterCompanyName": "Masukkan nama perusahaan",
+    "email": "Surel",
+    "enterEmail": "Masukkan email Anda",
+    "enterValidEmail": "Masukkan email yang valid",
+    "emailNotFound": "Email tidak ditemukan",
+    "waitSendLinkAgain": "Tunggu untuk mengirim tautan lagi",
+    "password": "Kata sandi",
+    "thePassword": "Sebuah senha",
+    "enterPassword": "Masukkan kata sandi Anda",
+    "enterPasswordConfirmation": "Masukkan konfirmasi kata sandi",
+    "confirmPassword": "Konfirmasi password Anda",
+    "passwordsNotMatch": "Sandi tidak cocok",
+    "incorrectEmailPassword": "Email atau sandi salah",
+    "forgetPassword": "Lupa kata sandi Anda?",
+    "resetPassword": "Setel ulang kata sandi",
+    "loginRequired": "Login dibutuhkan",
+    "errorLogin": "Kesalahan saat masuk",
+    "errorRegister": "Kesalahan saat mendaftar",
+    "inputMinimumSize": "{fieldName} setidaknya harus {requiredSize} karakter",
+    "@inputMinimumSize": {
+        "description": "Ukuran minimum bidang",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "Kata sandi"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "wantToLeaveRegistration": "Apakah Anda ingin meninggalkan pendaftaran?",
+    "exitingRegistrationDataLost": "Setelah keluar dari pendaftaran, semua data yang sudah dimasukkan akan hilang.",
+    "cancel": "Membatalkan",
+    "declareHaveReadAgreed": "Dengan mendaftar, Anda menyatakan bahwa Anda telah membaca dan menyetujui",
+    "termsUsePrivacyPolicy": "Persyaratan penggunaan dan kebijakan privasi",
+    "leave": "Meninggalkan",
+    "save": "Menyimpan",
+    "dontHaveAccount": "Tidak punya akun?",
+    "createAccount": "Daftar",
+    "registration": "Registrasi",
+    "register": "Daftar",
+    "haveAnAccount": "Punya akun?",
+    "signIn": "Masuk",
+    "signUp": "Daftar",
+    "skipForNow": "Lewati untuk sekarang",
+    "skip": "Melewati",
+    "verifyConnection": "Verifikasi koneksi internet Anda",
+    "rememberMe": "Ingat saya",
+    "menu": "Menu",
+    "wantSignOut": "Ingin keluar?",
+    "yes": "Ya",
+    "no": "Tidak",
+    "theme": "Tema",
+    "darkTheme": "Tema gelap",
+    "lightTheme": "Tema ringan",
+    "sendLink": "Kirim tautan",
+    "linkSubmitted": "Tautan dikirim",
+    "errorSendingLink": "Kesalahan saat mengirim tautan",
+    "linkCopied": "Tautan telah disalin",
+    "termsUse": "Syarat Penggunaan",
+    "privacyPolicy": "Kebijakan pribadi",
+    "and": "dan",
+    "kilometer": "Kilometer",
+    "mile": "Mil",
+    "km": "km",
+    "mi": "mi",
+    "signinWith": "Masuk dengan {socialNetwork}",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "fromPickupLocation": "{distance} dari lokasi penjemputan",
+    "@fromPickupLocation": {
+        "placeholders": {
+            "distance": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "Nomor Telepon Diperlukan",
+    "pending": "Tertunda",
+    "waiting": "Menunggu",
+    "accepted": "Diterima",
+    "rejected": "Ditolak",
+    "collected": "Dikumpulkan",
+    "delivered": "Terkirim",
+    "cancelled": "Dibatalkan",
+    "completed": "Lengkap",
+    "noResultsFound": "Tidak ada hasil yang ditemukan",
+    "pickupLocation": "Lokasi penjemputan",
+    "deliveryLocation": "Lokasi Pengiriman",
+    "addDeliveryLocation": "Tambahkan lokasi pengiriman",
+    "selectAnAddress": "Pilih alamat",
+    "total": "Total",
+    "distance": "Jarak",
+    "enterNumberComplement": "Masukkan nomor dan pelengkapnya",
+    "ok": "Oke",
+    "changeCourier": "Ganti kurir",
+    "sendOrder": "Kirim pesanan",
+    "searchingOrders": "Mencari Pesanan",
+    "youDontHaveAnyOrders": "Anda tidak memiliki pesanan",
+    "support": "Mendukung",
+    "accountSupport": "Dukungan akun",
+    "settings": "Pengaturan",
+    "recentOrders": "Pesanan terbaru",
+    "pickupAddress": "Alamat Penjemputan",
+    "deliveryAddress": "Alamat pengiriman",
+    "deliveryAddresses": "Alamat pengiriman",
+    "viewCompleteOrder": "Lihat Pesanan Lengkap",
+    "requestedBy": "Diminta oleh",
+    "paymentMethod": "Cara Pembayaran",
+    "paymentStatus": "Status pembayaran",
+    "loadMore": "Muat lebih banyak",
+    "failedUpdate": "Gagal memperbarui",
+    "dataUpdatedSuccessfully": "Data berhasil diperbarui",
+    "camera": "Kamera",
+    "gallery": "Galeri",
+    "updatePhoto": "Perbarui Foto",
+    "cameraAccess": "Akses Kamera",
+    "galleryAccess": "Akses ke Galeri",
+    "allowAppAccessThe": "Izinkan aplikasi mengakses {accessType} agar dapat mengirim foto",
+    "@allowAppAccessThe": {
+        "description": "Izinkan akses",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "Terjadi kesalahan saat mengirim gambar.",
+    "goToSettings": "Pergi ke pengaturan",
+    "profile": "Profil",
+    "newOrder": "Pesanan baru",
+    "observationForCourier": "Pengamatan untuk Kurir",
+    "selectPaymentMethod": "Pilih metode pembayaran",
+    "ifNeededInputObservationCourier": "Jika diperlukan, masukkan pengamatan untuk kurir",
+    "courierDetailsDisplayedOrderPanel": "Detail kurir ditampilkan di panel pesanan.",
+    "sorryNoCourierNearby": "Maaf, tidak ada kurir terdekat untuk melayani Anda di alamat ini saat ini",
+    "note": "Catatan",
+    "returnCollectionLocation": "Kembali ke Lokasi Pengumpulan",
+    "estimatedDistance": "Perkiraan Jarak",
+    "collect": "Mengumpulkan",
+    "returnCollectLocation": "Kembali ke Lokasi Pengumpulan",
+    "orderStatus": "Status pemesanan",
+    "totalAmount": "Jumlah total",
+    "tryAgain": "Coba lagi",
+    "errorGettingOrder": "Kesalahan mendapatkan pesanan",
+    "orderNotFound": "Pesanan tidak ditemukan",
+    "order": "Memesan",
+    "details": "rincian",
+    "addresses": "Alamat",
+    "courier": "Kurir",
+    "sendingOrder": "Mengirim pesanan",
+    "orderCreated": "Pesanan dibuat",
+    "returnn": "Kembali",
+    "awaitingSomething": "Menunggu {something}",
+    "@awaitingSomething": {
+        "placeholders": {
+            "something": {
+                "type": "String"
+            }
+        }
+    },
+    "andMoreLocations": "dan lebih banyak {quantity} lokasi",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "delivery": "Pengiriman",
+    "returnPickupLocationRequired": "Kembali ke lokasi penjemputan diperlukan",
+    "seeWhatWeCanDoForYouToday": "Lihat apa yang bisa kami kirim untuk Anda",
+    "letsStartWithLogin": "Mari kita mulai dengan login",
+    "payWith": "Bayar dengan {paymentMethod}",
+    "@payWith": {
+        "placeholders": {
+            "paymentMethod": {
+                "type": "String"
+            }
+        }
+    },
+    "online": "On line",
+    "tracking": "Pelacakan",
+    "paymentCompleted": "Pembayaran selesai",
+    "paid": "Dibayar",
+    "error": "Kesalahan",
+    "errorOnPayment": "Kesalahan pembayaran",
+    "deletingYourAccont": "Menghapus akun Anda",
+    "deleteAccount": "Hapus akun",
+    "deleteMyAccount": "Hapus akun Saya",
+    "clickOnAdressOpenInMap": "Klik pada alamat untuk membukanya di peta",
+    "reallyWantDeleteAccontDataWillBeLost": "Apakah Anda benar-benar ingin menghapus akun Anda? Data Anda akan hilang secara permanen.",
+    "chatWithCourier": "Mengobrol dengan Kurir",
+    "noMessages": "Tidak ada pesan",
+    "enterAMessage": "Masukkan pesan"
+}

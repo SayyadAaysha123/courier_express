@@ -1,0 +1,216 @@
+{
+    "home": "Hogar",
+    "login": "Acceso",
+    "logout": "Cerrar sesión",
+    "theName": "El nombre",
+    "name": "Nombre",
+    "fullName": "Nombre completo",
+    "enterFullName": "Ingresa tu nombre completo",
+    "phone": "Teléfono",
+    "thePhone": "El teléfono",
+    "enterPhoneCorrectly": "Introduce correctamente tu teléfono",
+    "enterFullPhoneNumber": "Introduce tu teléfono completo",
+    "fantasyName": "Nombre de fantasía",
+    "enterCompanyName": "Introduzca el nombre de la empresa",
+    "email": "Correo electrónico",
+    "enterEmail": "Introduce tu correo electrónico",
+    "enterValidEmail": "Introduzca un correo electrónico válido",
+    "emailNotFound": "El correo electrónico no encontrado",
+    "waitSendLinkAgain": "Espere a enviar el enlace de nuevo",
+    "password": "Clave",
+    "thePassword": "una senha",
+    "enterPassword": "Ingresa tu contraseña",
+    "enterPasswordConfirmation": "Ingrese la confirmación de la contraseña",
+    "confirmPassword": "Confirmar la contraseña",
+    "passwordsNotMatch": "Las contraseñas no coinciden",
+    "incorrectEmailPassword": "Correo o contraseña incorrectos",
+    "forgetPassword": "¿Olvidaste tu contraseña?",
+    "resetPassword": "Restablecer la contraseña",
+    "loginRequired": "Necesario iniciar sesión",
+    "errorLogin": "Error al iniciar sesión",
+    "errorRegister": "Error al registrarse",
+    "inputMinimumSize": "{fieldName} debe tener al menos {requiredSize} caracteres de largo",
+    "@inputMinimumSize": {
+        "description": "Tamaño mínimo del campo",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "Clave"
+            },
+            "requiredSize": {
+                "type": "En t",
+                "example": "5"
+            }
+        }
+    },
+    "wantToLeaveRegistration": "¿Quieres salir del registro?",
+    "exitingRegistrationDataLost": "Al salir del registro, se perderán todos los datos ya ingresados.",
+    "cancel": "Cancelar",
+    "declareHaveReadAgreed": "Al registrarse, declara que ha leído y está de acuerdo con nuestros",
+    "termsUsePrivacyPolicy": "Términos de uso y política de privacidad",
+    "leave": "Abandonar",
+    "save": "Ahorrar",
+    "dontHaveAccount": "¿No tienes una cuenta?",
+    "createAccount": "Inscribirse",
+    "registration": "Registro",
+    "register": "Registro",
+    "haveAnAccount": "¿Tener una cuenta?",
+    "signIn": "Iniciar sesión",
+    "signUp": "Inscribirse",
+    "skipForNow": "Saltar por ahora",
+    "skip": "Saltar",
+    "verifyConnection": "Verifica tu conexión a internet",
+    "rememberMe": "Acuérdate de mí",
+    "menu": "Menú",
+    "wantSignOut": "¿Quieres cerrar sesión?",
+    "yes": "Sí",
+    "no": "No",
+    "theme": "Tema",
+    "darkTheme": "tema oscuro",
+    "lightTheme": "Tema ligero",
+    "sendLink": "Enviar enlace",
+    "linkSubmitted": "Enlace enviado",
+    "errorSendingLink": "Error al enviar enlace",
+    "linkCopied": "El enlace ha sido copiado.",
+    "termsUse": "Términos de Uso",
+    "privacyPolicy": "Política de privacidad",
+    "and": "y",
+    "kilometer": "Kilómetro",
+    "mile": "Milla",
+    "km": "kilómetros",
+    "mi": "Mi",
+    "signinWith": "Iniciar sesión con {socialNetwork}",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "fromPickupLocation": "{distance} desde el lugar de recogida",
+    "@fromPickupLocation": {
+        "placeholders": {
+            "distance": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "Número de teléfono requerido",
+    "pending": "Pendiente",
+    "waiting": "Esperando",
+    "accepted": "Aceptado",
+    "rejected": "Rechazado",
+    "collected": "Recogido",
+    "delivered": "Entregado",
+    "cancelled": "Cancelado",
+    "completed": "Terminado",
+    "noResultsFound": "No se han encontrado resultados",
+    "pickupLocation": "Lugar de recogida",
+    "deliveryLocation": "Lugar de entrega",
+    "addDeliveryLocation": "Agregar lugar de entrega",
+    "selectAnAddress": "Seleccione una dirección",
+    "total": "Total",
+    "distance": "Distancia",
+    "enterNumberComplement": "Introduce el número y complementa",
+    "ok": "OK",
+    "changeCourier": "cambiar mensajero",
+    "sendOrder": "Enviar orden",
+    "searchingOrders": "Búsqueda de pedidos",
+    "youDontHaveAnyOrders": "no tienes ningun pedido",
+    "support": "Apoyo",
+    "accountSupport": "soporte de cuenta",
+    "settings": "Ajustes",
+    "recentOrders": "Órdenes recientes",
+    "pickupAddress": "Dirección de entrega",
+    "deliveryAddress": "Dirección de entrega",
+    "deliveryAddresses": "Direcciones de entrega",
+    "viewCompleteOrder": "Ver pedido completo",
+    "requestedBy": "Solicitado por",
+    "paymentMethod": "Método de pago",
+    "paymentStatus": "Estado de pago",
+    "loadMore": "Carga más",
+    "failedUpdate": "Error al actualizar",
+    "dataUpdatedSuccessfully": "Datos actualizados con éxito",
+    "camera": "Cámara",
+    "gallery": "Galería",
+    "updatePhoto": "Actualizar foto",
+    "cameraAccess": "Acceso a la cámara",
+    "galleryAccess": "Acceso a la galería",
+    "allowAppAccessThe": "Permita que la aplicación acceda al {accessType} para poder enviar fotos",
+    "@allowAppAccessThe": {
+        "description": "Permitir el acceso",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "Hubo un error al enviar la imagen.",
+    "goToSettings": "Ir a la configuración",
+    "profile": "Perfil",
+    "newOrder": "Nuevo orden",
+    "observationForCourier": "Observación para el Correo",
+    "selectPaymentMethod": "Seleccione el método de pago",
+    "ifNeededInputObservationCourier": "Si es necesario, ingrese una observación para el servicio de mensajería",
+    "courierDetailsDisplayedOrderPanel": "Los detalles del repartidor se muestran en el panel de pedidos.",
+    "sorryNoCourierNearby": "Lo sentimos, no hay mensajeros cerca para atenderte en esta dirección en este momento.",
+    "note": "Nota",
+    "returnCollectionLocation": "Regresar al Lugar de Recolección",
+    "estimatedDistance": "Distancia estimada",
+    "collect": "Recoger",
+    "returnCollectLocation": "Regresar al Lugar de Recolección",
+    "orderStatus": "Estado del pedido",
+    "totalAmount": "Cantidad total",
+    "tryAgain": "Intentar otra vez",
+    "errorGettingOrder": "Error al obtener el pedido",
+    "orderNotFound": "Pedido no encontrado",
+    "order": "Ordenar",
+    "details": "Detalles",
+    "addresses": "direcciones",
+    "courier": "mensajero",
+    "sendingOrder": "Enviando pedido",
+    "orderCreated": "Pedido creado",
+    "returnn": "Devolver",
+    "awaitingSomething": "esperando {something}",
+    "@awaitingSomething": {
+        "placeholders": {
+            "something": {
+                "type": "String"
+            }
+        }
+    },
+    "andMoreLocations": "y más {quantity} ubicaciones",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "delivery": "Entrega",
+    "returnPickupLocationRequired": "Regresar al lugar de recogida requerido",
+    "seeWhatWeCanDoForYouToday": "Vea lo que podemos hacer por usted hoy",
+    "letsStartWithLogin": "Comencemos con el inicio de sesión",
+    "payWith": "Pagar con {paymentMethod}",
+    "@payWith": {
+        "placeholders": {
+            "paymentMethod": {
+                "type": "String"
+            }
+        }
+    },
+    "online": "En línea",
+    "tracking": "Seguimiento",
+    "paymentCompleted": "Pago completado",
+    "paid": "Pagado",
+    "error": "Error",
+    "errorOnPayment": "error en el pago",
+    "deletingYourAccont": "Eliminando tu cuenta",
+    "deleteAccount": "Borrar cuenta",
+    "deleteMyAccount": "Borrar mi cuenta",
+    "clickOnAdressOpenInMap": "Haga clic en la dirección para abrirla en el mapa",
+    "reallyWantDeleteAccontDataWillBeLost": "¿Realmente quieres eliminar tu cuenta? Sus datos se perderán permanentemente.",
+    "chatWithCourier": "Chatea con el mensajero",
+    "noMessages": "Ningún mensaje",
+    "enterAMessage": "Introduce un mensaje"
+}

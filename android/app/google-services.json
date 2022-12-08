@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "41686454589",
+    "project_id": "bizz-courier",
+    "storage_bucket": "bizz-courier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41686454589:android:0b292568460fea70a03554",
+        "android_client_info": {
+          "package_name": "com.codexxa.bizzcourier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41686454589-obidd36jmhk3okb7i278082qfhi726cc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codexxa.bizzcourier",
+            "certificate_hash": "62bc7fefe6c60ac1ee214699f00e280c56c751bf"
+          }
+        },
+        {
+          "client_id": "41686454589-v0rjn0uhe5cfb0m2h8nemcq0skjadfcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuIZP9fL5Z6b9NVC2sTQOOkUkGj4IYTgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41686454589-v0rjn0uhe5cfb0m2h8nemcq0skjadfcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

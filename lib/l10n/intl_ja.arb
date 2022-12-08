@@ -1,0 +1,216 @@
+{
+    "home": "家",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "theName": "名前",
+    "name": "名前",
+    "fullName": "フルネーム",
+    "enterFullName": "フルネームを入れて下さい",
+    "phone": "電話",
+    "thePhone": "電話",
+    "enterPhoneCorrectly": "電話番号を正しく入力してください",
+    "enterFullPhoneNumber": "電話番号を入力してください",
+    "fantasyName": "ファンタジー名",
+    "enterCompanyName": "会社名を入力してください",
+    "email": "Eメール",
+    "enterEmail": "メールアドレスを入力",
+    "enterValidEmail": "有効なメールアドレスを入力してください",
+    "emailNotFound": "メールが見つかりません",
+    "waitSendLinkAgain": "リンクの再送信を待ちます",
+    "password": "パスワード",
+    "thePassword": "せんは",
+    "enterPassword": "パスワードを入力してください",
+    "enterPasswordConfirmation": "パスワードの確認を入力してください",
+    "confirmPassword": "あなたのパスワードを確認",
+    "passwordsNotMatch": "パスワードが一致していません",
+    "incorrectEmailPassword": "メールアドレスまたはパスワードが正しくありません",
+    "forgetPassword": "パスワードを忘れましたか？",
+    "resetPassword": "パスワードを再設定する",
+    "loginRequired": "ログインが必要です",
+    "errorLogin": "ログイン中のエラー",
+    "errorRegister": "登録中のエラー",
+    "inputMinimumSize": "{fieldName} は {requiredSize} 文字以上にする必要があります",
+    "@inputMinimumSize": {
+        "description": "フィールドの最小サイズ",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "パスワード"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "wantToLeaveRegistration": "登録をやめますか？",
+    "exitingRegistrationDataLost": "登録を終了すると、すでに入力されているすべてのデータが失われます。",
+    "cancel": "キャンセル",
+    "declareHaveReadAgreed": "登録することにより、あなたは私たちの",
+    "termsUsePrivacyPolicy": "利用規約とプライバシー ポリシー",
+    "leave": "離れる",
+    "save": "保存",
+    "dontHaveAccount": "アカウントをお持ちでない場合",
+    "createAccount": "サインアップ",
+    "registration": "登録",
+    "register": "登録",
+    "haveAnAccount": "アカウントを持っています？",
+    "signIn": "ログイン",
+    "signUp": "サインアップ",
+    "skipForNow": "今のところスキップ",
+    "skip": "スキップ",
+    "verifyConnection": "インターネット接続を確認する",
+    "rememberMe": "私を覚えてますか",
+    "menu": "メニュー",
+    "wantSignOut": "サインアウトしますか?",
+    "yes": "はい",
+    "no": "いいえ",
+    "theme": "テーマ",
+    "darkTheme": "暗いテーマ",
+    "lightTheme": "ライトテーマ",
+    "sendLink": "リンクを送信",
+    "linkSubmitted": "リンクを送信しました",
+    "errorSendingLink": "リンクの送信エラー",
+    "linkCopied": "リンクをコピーしました",
+    "termsUse": "利用規約",
+    "privacyPolicy": "プライバシーポリシー",
+    "and": "と",
+    "kilometer": "キロメートル",
+    "mile": "マイル",
+    "km": "キロ",
+    "mi": "ミ",
+    "signinWith": "{socialNetwork} でサインイン",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "fromPickupLocation": "乗車場所からの{distance}",
+    "@fromPickupLocation": {
+        "placeholders": {
+            "distance": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "電話番号必須",
+    "pending": "保留中",
+    "waiting": "待っている",
+    "accepted": "承認済み",
+    "rejected": "却下",
+    "collected": "集めました",
+    "delivered": "配達済み",
+    "cancelled": "キャンセル",
+    "completed": "完了",
+    "noResultsFound": "結果が見つかりません",
+    "pickupLocation": "受け取り場所",
+    "deliveryLocation": "配達場所",
+    "addDeliveryLocation": "配達場所を追加",
+    "selectAnAddress": "住所を選択",
+    "total": "合計",
+    "distance": "距離",
+    "enterNumberComplement": "数字を入力して補完する",
+    "ok": "Ok",
+    "changeCourier": "宅配業者を変更する",
+    "sendOrder": "注文を送る",
+    "searchingOrders": "注文の検索",
+    "youDontHaveAnyOrders": "注文はありません",
+    "support": "サポート",
+    "accountSupport": "アカウントサポート",
+    "settings": "設定",
+    "recentOrders": "最近の注文",
+    "pickupAddress": "アドレスをピックアップ",
+    "deliveryAddress": "配送先住所",
+    "deliveryAddresses": "配送先住所",
+    "viewCompleteOrder": "完全な注文を表示",
+    "requestedBy": "に要求された",
+    "paymentMethod": "支払方法",
+    "paymentStatus": "支払い状況",
+    "loadMore": "もっと読み込む",
+    "failedUpdate": "更新できませんでした",
+    "dataUpdatedSuccessfully": "データが正常に更新されました",
+    "camera": "カメラ",
+    "gallery": "ギャラリー",
+    "updatePhoto": "写真を更新",
+    "cameraAccess": "カメラへのアクセス",
+    "galleryAccess": "ギャラリーへのアクセス",
+    "allowAppAccessThe": "写真を送信できるようにするには、アプリが {accessType} にアクセスすることを許可してください",
+    "@allowAppAccessThe": {
+        "description": "アクセスを許可する",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "画像の送信中にエラーが発生しました。",
+    "goToSettings": "設定に移動",
+    "profile": "プロフィール",
+    "newOrder": "新規注文",
+    "observationForCourier": "クーリエの観察",
+    "selectPaymentMethod": "お支払い方法を選択",
+    "ifNeededInputObservationCourier": "必要に応じて、配送業者の観察を入力します",
+    "courierDetailsDisplayedOrderPanel": "配達員の詳細は注文パネルに表示されます。",
+    "sorryNoCourierNearby": "申し訳ありませんが、現在この住所でサービスを提供できる配送業者は近くにありません",
+    "note": "ノート",
+    "returnCollectionLocation": "回収場所に戻る",
+    "estimatedDistance": "推定距離",
+    "collect": "収集",
+    "returnCollectLocation": "回収場所に戻る",
+    "orderStatus": "注文の状況",
+    "totalAmount": "合計金額",
+    "tryAgain": "再試行する",
+    "errorGettingOrder": "注文の取得中にエラーが発生しました",
+    "orderNotFound": "注文が見つかりません",
+    "order": "注文",
+    "details": "詳細",
+    "addresses": "住所",
+    "courier": "クーリエ",
+    "sendingOrder": "注文の送信",
+    "orderCreated": "注文が作成されました",
+    "returnn": "戻る",
+    "awaitingSomething": "{something}を待っています",
+    "@awaitingSomething": {
+        "placeholders": {
+            "something": {
+                "type": "String"
+            }
+        }
+    },
+    "andMoreLocations": "その他の {quantity} か所",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "delivery": "配達",
+    "returnPickupLocationRequired": "受け取り場所への返却が必要",
+    "seeWhatWeCanDoForYouToday": "私たちがあなたのために配達できるものを見てください",
+    "letsStartWithLogin": "ログインから始めましょう",
+    "payWith": "{paymentMethod} で支払う",
+    "@payWith": {
+        "placeholders": {
+            "paymentMethod": {
+                "type": "String"
+            }
+        }
+    },
+    "online": "オンライン",
+    "tracking": "追跡",
+    "paymentCompleted": "お支払い完了",
+    "paid": "有料",
+    "error": "エラー",
+    "errorOnPayment": "支払いのエラー",
+    "deletingYourAccont": "アカウントの削除",
+    "deleteAccount": "アカウントを削除する",
+    "deleteMyAccount": "アカウントを削除します",
+    "clickOnAdressOpenInMap": "住所をクリックすると地図で開きます",
+    "reallyWantDeleteAccontDataWillBeLost": "本当にアカウントを削除しますか?データは完全に失われます。",
+    "chatWithCourier": "クーリエとチャット",
+    "noMessages": "メッセージがありません",
+    "enterAMessage": "メッセージを入力してください"
+}

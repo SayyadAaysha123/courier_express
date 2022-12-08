@@ -1,0 +1,216 @@
+{
+    "home": "Ev",
+    "login": "Giriş yapmak",
+    "logout": "Çıkış Yap",
+    "theName": "İsim",
+    "name": "İsim",
+    "fullName": "Ad Soyad",
+    "enterFullName": "Ad ve soyadınızı girin",
+    "phone": "Telefon",
+    "thePhone": "Telefon",
+    "enterPhoneCorrectly": "Telefonunuzu doğru girin",
+    "enterFullPhoneNumber": "Telefonunuzun tamamını girin",
+    "fantasyName": "fantezi adı",
+    "enterCompanyName": "Şirket adını girin",
+    "email": "E-posta",
+    "enterEmail": "E-postanızı giriniz",
+    "enterValidEmail": "Geçerli bir e-posta giriniz",
+    "emailNotFound": "Email bulunamadı",
+    "waitSendLinkAgain": "Bağlantıyı tekrar göndermek için bekleyin",
+    "password": "Şifre",
+    "thePassword": "bir senha",
+    "enterPassword": "Şifrenizi girin",
+    "enterPasswordConfirmation": "Şifre onayını girin",
+    "confirmPassword": "Parolanızı doğrulayın",
+    "passwordsNotMatch": "Parolalar uyuşmuyor",
+    "incorrectEmailPassword": "yanlış eposta adresi veya şifre",
+    "forgetPassword": "Şifreni mi unuttun?",
+    "resetPassword": "Şifreyi yenile",
+    "loginRequired": "Oturum açmak gereklidir",
+    "errorLogin": "Giriş yaparken hata",
+    "errorRegister": "Kayıt olurken hata",
+    "inputMinimumSize": "{fieldName} en az {requiredSize} karakter uzunluğunda olmalıdır",
+    "@inputMinimumSize": {
+        "description": "Alanın minimum boyutu",
+        "placeholders": {
+            "fieldName": {
+                "type": "String",
+                "example": "Şifre"
+            },
+            "requiredSize": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "wantToLeaveRegistration": "Kayıttan çıkmak istiyor musunuz?",
+    "exitingRegistrationDataLost": "Kayıttan çıkıldığında, girilen tüm veriler kaybolacaktır.",
+    "cancel": "İptal",
+    "declareHaveReadAgreed": "Kaydolarak, sözleşmemizi okuduğunuzu ve kabul ettiğinizi beyan etmiş olursunuz.",
+    "termsUsePrivacyPolicy": "Kullanım ve gizlilik politikası şartları",
+    "leave": "Terk etmek",
+    "save": "Kaydetmek",
+    "dontHaveAccount": "Hesabınız yok mu?",
+    "createAccount": "Üye olmak",
+    "registration": "Kayıt",
+    "register": "Kayıt ol",
+    "haveAnAccount": "Bir hesabınız var mı?",
+    "signIn": "Kayıt olmak",
+    "signUp": "Üye olmak",
+    "skipForNow": "Şimdilik geç",
+    "skip": "Atlamak",
+    "verifyConnection": "İnternet bağlantınızı doğrulayın",
+    "rememberMe": "Beni hatırla",
+    "menu": "Menü",
+    "wantSignOut": "Çıkış yapmak ister misiniz?",
+    "yes": "Evet",
+    "no": "Numara",
+    "theme": "Tema",
+    "darkTheme": "Karanlık tema",
+    "lightTheme": "hafif tema",
+    "sendLink": "Bağlantıyı gönder",
+    "linkSubmitted": "Bağlantı gönderildi",
+    "errorSendingLink": "Bağlantı gönderilirken hata oluştu",
+    "linkCopied": "Bağlantı kopyalandı",
+    "termsUse": "Kullanım Şartları",
+    "privacyPolicy": "Gizlilik Politikası",
+    "and": "ve",
+    "kilometer": "Kilometre",
+    "mile": "Mil",
+    "km": "Km",
+    "mi": "Mi",
+    "signinWith": "{socialNetwork} ile oturum açın",
+    "@signinWith": {
+        "placeholders": {
+            "socialNetwork": {
+                "type": "String"
+            }
+        }
+    },
+    "fromPickupLocation": "Alış konumundan {distance}",
+    "@fromPickupLocation": {
+        "placeholders": {
+            "distance": {
+                "type": "String"
+            }
+        }
+    },
+    "phoneNumberRequired": "Telefon Numarası Gerekli",
+    "pending": "Askıda olması",
+    "waiting": "Beklemek",
+    "accepted": "Kabul edilmiş",
+    "rejected": "Reddedildi",
+    "collected": "Toplanmış",
+    "delivered": "Teslim edilmiş",
+    "cancelled": "İptal edildi",
+    "completed": "Tamamlanmış",
+    "noResultsFound": "Sonuç bulunamadı",
+    "pickupLocation": "alma yeri",
+    "deliveryLocation": "Teslimat yeri",
+    "addDeliveryLocation": "Teslimat yeri ekle",
+    "selectAnAddress": "Bir adres seçin",
+    "total": "Toplam",
+    "distance": "Mesafe",
+    "enterNumberComplement": "Numarayı girin ve tamamlayın",
+    "ok": "Tamam",
+    "changeCourier": "kuryeyi değiştir",
+    "sendOrder": "Sipariş gönder",
+    "searchingOrders": "Sipariş Arama",
+    "youDontHaveAnyOrders": "Hiç siparişiniz yok",
+    "support": "Destek",
+    "accountSupport": "Hesap desteği",
+    "settings": "Ayarlar",
+    "recentOrders": "Son Siparişler",
+    "pickupAddress": "Adresi almak",
+    "deliveryAddress": "Teslimat adresi",
+    "deliveryAddresses": "Teslimat adresleri",
+    "viewCompleteOrder": "Tam Siparişi Görüntüle",
+    "requestedBy": "tarafından talep edildi",
+    "paymentMethod": "Ödeme şekli",
+    "paymentStatus": "Ödeme durumu",
+    "loadMore": "Daha fazla yükle",
+    "failedUpdate": "Güncelleme başarısız oldu",
+    "dataUpdatedSuccessfully": "Veriler başarıyla güncellendi",
+    "camera": "Kamera",
+    "gallery": "Galeri",
+    "updatePhoto": "Fotoğrafı Güncelle",
+    "cameraAccess": "Kamera Erişimi",
+    "galleryAccess": "Galeriye Erişim",
+    "allowAppAccessThe": "Fotoğraf gönderebilmek için uygulamanın {accessType}'a erişmesine izin verin",
+    "@allowAppAccessThe": {
+        "description": "Erişime izin vermek",
+        "placeholders": {
+            "accessType": {
+                "type": "String"
+            }
+        }
+    },
+    "thereWasErrorSendingImage": "Resim gönderilirken bir hata oluştu.",
+    "goToSettings": "Ayarlara git",
+    "profile": "Profil",
+    "newOrder": "Yeni sipariş",
+    "observationForCourier": "Kurye için Gözlem",
+    "selectPaymentMethod": "Ödeme yöntemini seçin",
+    "ifNeededInputObservationCourier": "Gerekirse, kurye için bir gözlem girin",
+    "courierDetailsDisplayedOrderPanel": "Teslimatçı detayları sipariş panelinde görüntülenir.",
+    "sorryNoCourierNearby": "Üzgünüz, şu anda bu adreste size hizmet verecek kurye yok.",
+    "note": "Not",
+    "returnCollectionLocation": "Toplama Konumuna Dön",
+    "estimatedDistance": "Tahmini Mesafe",
+    "collect": "Toplamak",
+    "returnCollectLocation": "Toplama Konumuna Dön",
+    "orderStatus": "Sipariş durumu",
+    "totalAmount": "Toplam tutar",
+    "tryAgain": "Tekrar deneyin",
+    "errorGettingOrder": "Sipariş alınırken hata oluştu",
+    "orderNotFound": "Sipariş bulunamadı",
+    "order": "Emir",
+    "details": "Detaylar",
+    "addresses": "adresler",
+    "courier": "Kurye",
+    "sendingOrder": "sipariş gönderme",
+    "orderCreated": "Sipariş oluşturuldu",
+    "returnn": "Dönüş",
+    "awaitingSomething": "{something} bekleniyor",
+    "@awaitingSomething": {
+        "placeholders": {
+            "something": {
+                "type": "String"
+            }
+        }
+    },
+    "andMoreLocations": "ve daha fazla {quantity} konum",
+    "@andMoreLocations": {
+        "placeholders": {
+            "quantity": {
+                "type": "String"
+            }
+        }
+    },
+    "delivery": "Teslimat",
+    "returnPickupLocationRequired": "Alış konumuna dönüş gerekli",
+    "seeWhatWeCanDoForYouToday": "Bakın sizin için neler teslim edebiliriz",
+    "letsStartWithLogin": "Giriş yaparak başlayalım",
+    "payWith": "{paymentMethod} ile ödeme yapın",
+    "@payWith": {
+        "placeholders": {
+            "paymentMethod": {
+                "type": "String"
+            }
+        }
+    },
+    "online": "Çevrimiçi",
+    "tracking": "izleme",
+    "paymentCompleted": "Ödeme tamamlandı",
+    "paid": "Paralı",
+    "error": "Hata",
+    "errorOnPayment": "Ödemede hata",
+    "deletingYourAccont": "Hesabınızı silme",
+    "deleteAccount": "Hesabı sil",
+    "deleteMyAccount": "Hesabımı sil",
+    "clickOnAdressOpenInMap": "Haritada açmak için adrese tıklayın",
+    "reallyWantDeleteAccontDataWillBeLost": "Hesabınızı gerçekten silmek istiyor musunuz? Verileriniz kalıcı olarak kaybolacak.",
+    "chatWithCourier": "Kurye ile Sohbet",
+    "noMessages": "Mesaj yok",
+    "enterAMessage": "bir mesaj girin"
+}
